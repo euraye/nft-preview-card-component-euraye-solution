@@ -1,0 +1,128 @@
+# Frontend Mentor - NFT preview card component solution
+
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Frontend Mentor - NFT preview card component solution](#frontend-mentor---nft-preview-card-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+### Screenshot
+
+<h2 align="center">Desktop View</h2>
+
+![](/images/screenshots/desktop.png)
+
+<h2 align="center">Mobile View</h2>
+
+<p align="center">
+  <img src="/images/screenshots/mobile.png" alt="Mobile View" />
+</p>
+
+<h2 align="center">Active-States View</h2>
+
+<p align="center">
+  <img src="/images/screenshots/active1.png" alt="active1" />
+  <img src="/images/screenshots/active2.png" alt="active2" />
+  <img src="/images/screenshots/mobile.png" alt="active3" />
+</p>
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
+
+In this challenge, I learned how to use CSS Grid for layout, apply transitions for smooth effects, and use positioning to control element placement. I also practiced sizing images properly and adding hover animations to interactive elements.
+
+Here are some code snippets that demonstrate what I learned:
+
+```css
+/* Using CSS Grid for layout */
+.card-container {
+  display: grid;
+  gap: 1.5rem;
+}
+```
+```css
+/* Adding hover effect to show overlay and icon on the main image */
+.main-image:hover .equilibrium{
+  background-color: var(--cyan400);
+  opacity: 0.5;
+}
+.main-image:hover .view{
+  opacity: 1;
+}
+```
+
+```css
+/* Positioning elements and sizing images */
+.card-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  position: relative;
+}
+```
+
+```css
+/* Adding hover animations to interactive elements */
+.button:hover {
+  background-color: #00fff7;
+  color: #fff;
+  transition: background 0.2s, color 0.2s;
+}
+```
+
+### Continued development
+
+I want to continue practicing and deepening my understanding of Flexbox and CSS Grid, especially how to use them together for complex layouts. I also aim to improve my use of media queries for responsive design and gain a deeper knowledge of creating various hover effects. In addition, I plan to learn how to implement these techniques in different frameworks and experiment with utility-first frameworks like Tailwind CSS.
+
+### Useful resources
+
+- [MDN Web Docs - CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Comprehensive guide that helped me understand CSS Grid concepts and properties.
+- [MDN Web Docs - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - Useful for learning Flexbox basics and advanced techniques.
+- [W3Schools - CSS Grid](https://www.w3schools.com/css/css_grid.asp) - Provided simple examples and explanations for CSS Grid.
+- [W3Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) - Helped clarify Flexbox usage with interactive examples.
+- [W3Schools - CSS :hover Selector](https://www.w3schools.com/cssref/sel_hover.php) - Provided clear examples and explanations for using the :hover selector.
+- [GitHub Copilot](https://github.com/features/copilot) - Assisted me in understanding code issues and provided suggestions to fix code that did not work.
+
+
+## Author
+
+- Website - [](https://www.your-site.com)
+- Frontend Mentor - [@euraye](https://www.frontendmentor.io/profile/euraye)
+- Github - [@euraye](https://github.com/euraye)
+
