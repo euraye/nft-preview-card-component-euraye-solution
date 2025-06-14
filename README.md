@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repository](https://github.com/euraye/nft-preview-card-component-euraye-solution)
+- Live Site URL: [NFT Preview Card Component](https://nft-preview-card-component-euraye.vercel.app/)
 
 ## My process
 
@@ -103,8 +103,6 @@ I want to continue practicing and deepening my understanding of Flexbox and CSS 
 - [GitHub Copilot](https://github.com/features/copilot)
 
 ## Author
-
-- Website - [](https://www.your-site.com)
 - Frontend Mentor - [@euraye](https://www.frontendmentor.io/profile/euraye)
 - Github - [@euraye](https://github.com/euraye)
 
