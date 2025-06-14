@@ -1,23 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Frontend Mentor - NFT preview card component solution](#frontend-mentor---nft-preview-card-component-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -112,17 +95,18 @@ I want to continue practicing and deepening my understanding of Flexbox and CSS 
 
 ### Useful resources
 
-- [MDN Web Docs - CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Comprehensive guide that helped me understand CSS Grid concepts and properties.
-- [MDN Web Docs - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - Useful for learning Flexbox basics and advanced techniques.
-- [W3Schools - CSS Grid](https://www.w3schools.com/css/css_grid.asp) - Provided simple examples and explanations for CSS Grid.
-- [W3Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) - Helped clarify Flexbox usage with interactive examples.
-- [W3Schools - CSS :hover Selector](https://www.w3schools.com/cssref/sel_hover.php) - Provided clear examples and explanations for using the :hover selector.
-- [GitHub Copilot](https://github.com/features/copilot) - Assisted me in understanding code issues and provided suggestions to fix code that did not work.
-
+- [MDN Web Docs - CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [MDN Web Docs - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [W3Schools - CSS Grid](https://www.w3schools.com/css/css_grid.asp)
+- [W3Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+- [W3Schools - CSS :hover Selector](https://www.w3schools.com/cssref/sel_hover.php)
+- [GitHub Copilot](https://github.com/features/copilot)
 
 ## Author
 
 - Website - [](https://www.your-site.com)
 - Frontend Mentor - [@euraye](https://www.frontendmentor.io/profile/euraye)
 - Github - [@euraye](https://github.com/euraye)
+
+
 
